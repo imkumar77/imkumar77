@@ -17,9 +17,13 @@
 ## 🔹 Skills
 
 🏆 **Problem-Solving & Decision-Making**
+
 📊 **Data Visualization*
+
 🛠  **Data Analysis**
+
 🏆 **Reporting**
+
 🏆 **Stakeholder Communication**
 
 ## 🔹 Tools
@@ -35,15 +39,19 @@
 ## 📂 Projects
 
 🔹 [Project 1 - Predictive Workforce Analytics](https://github.com/imkumar77/Predictive-Workforce-Analytics-Strategy-for-Employee-Retention) 
+
 🔹 [Project 2 - Sales Performance Dashboard](https://github.com/imkumar77/Sales-Performance-Dashboard) 
+
 🔹 [Project 3 - Customer Insights Model](https://github.com/imkumar77/retail_database)
+
 🔹 [Project 4 - Coffee Shop Sales Analysis in Excel](https://github.com/imkumar77/Coffee-Shop-Revenue-Analysis-Dashboard-Excel-)
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+(https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)  
 
 
