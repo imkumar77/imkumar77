@@ -50,7 +50,7 @@
 
 ## 📫 Let's Connect!
 
-[https://images.app.goo.gl/WmqhsnjomVkRQLbV7](https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+(https://images.app.goo.gl/WmqhsnjomVkRQLbV7) (https://www.linkedin.com/in/rahul-kumar-business-anylist/)
 
 
 
