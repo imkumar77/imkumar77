@@ -22,6 +22,10 @@
 
 ## 🔹 Tools
 - ![{3E11A829-5124-4E53-8B31-301373AE851A}](https://github.com/user-attachments/assets/b92789da-87a4-4da2-b173-3ad74bb142c9)
+- ![{973D9EEA-50CB-449D-8555-CFF94E4CCA97}](https://github.com/user-attachments/assets/ff78912e-41da-4126-98d5-598ed9979f31)
+- ![{57D473A2-57D0-4B49-98D9-8E09B278AF5C}](https://github.com/user-attachments/assets/e6298b30-2081-4155-8567-f72afcd5e829)
+
+
 
 
 ---
