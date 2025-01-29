@@ -21,7 +21,8 @@
 🏆 **Stakeholder Communication**
 
 ## 🔹 Tools
-- !(https://images.app.goo.gl/xTTiDH9KZdTZMqUE8)
+- ![{3E11A829-5124-4E53-8B31-301373AE851A}](https://github.com/user-attachments/assets/b92789da-87a4-4da2-b173-3ad74bb142c9)
+
 
 ---
 
