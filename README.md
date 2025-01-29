@@ -50,7 +50,8 @@
 
 ## 📫 Let's Connect!
 
-(https://images.app.goo.gl/WmqhsnjomVkRQLbV7) (https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-business-anylist/)
 
 
 
