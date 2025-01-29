@@ -12,6 +12,10 @@
 
 📫 Reach me @rahulkumar7719997@gmail.com
 
+📄 Know about my experiences  
+
+https://github.com/imkumar77/-Know-about-my-experiences/blob/main/Rahul%20Kumar.pdf
+
 ---
 
 ## 🔹 Skills
@@ -52,6 +56,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/imkumar77)
 
 
 
