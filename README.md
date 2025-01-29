@@ -1,22 +1,27 @@
 ## Hi there 👋
 
-![Header Image](https://your-image-link.com)
+# 👋 Hi, I'm Rahul Kumar!
 
-# 👋 Hi, I'm [Your Name]!
+## 🚀 Aspiring Business Analyst from India
 
-## 🚀 Aspiring Business Analyst | MBA in Business Analytics
-
-Currently working as a **Business Strategy Associate** at **Clovefry**, I am passionate about data-driven decision-making and business optimization. My expertise lies in **Tableau, SQL, and Excel**, and I am constantly exploring new tools and techniques to drive business insights.
+ ## Work
+ 
+🔭 I’m currently working  as a **Business Strategy Associate** at **Clovefry**, I am passionate about data-driven decision-making and business optimization. 
+🌱 I’m currently learning I am constantly exploring new tools and techniques to drive business insights.
+📫 Reach me @rahulkumar7719997@gmail.com
 
 ---
 
-## 🔹 Skills & Technologies
+## 🔹 Skills
 
-- 📊 **Data Visualization**: Tableau, Power BI
-- 🛠 **Data Analysis**: SQL, Excel, Python (Pandas, NumPy)
-- 📈 **Business Strategy & Analytics**
-- 🤖 **Machine Learning (Basic Concepts)**
-- 🏆 **Problem-Solving & Decision-Making**
+🏆 **Problem-Solving & Decision-Making**
+📊 **Data Visualization*
+🛠  **Data Analysis**
+🏆 **Reporting**
+🏆 **Stakeholder Communication**
+
+## 🔹 Tools
+- ![Tableau GIF](https://images.app.goo.gl/xTTiDH9KZdTZMqUE8)
 
 ---
 
