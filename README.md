@@ -56,6 +56,7 @@ https://github.com/imkumar77/-Know-about-my-experiences/blob/main/Rahul%20Kumar.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-business-anylist/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/imkumar77)
 
 
