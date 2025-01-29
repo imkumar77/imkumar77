@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Rahul Kumar!
+# 👋 I'm Rahul Kumar!
 
 ## 🚀 Aspiring Business Analyst from India
 
