@@ -21,7 +21,7 @@
 🏆 **Stakeholder Communication**
 
 ## 🔹 Tools
-- ![Tableau GIF](https://images.app.goo.gl/xTTiDH9KZdTZMqUE8)
+- !(https://images.app.goo.gl/xTTiDH9KZdTZMqUE8)
 
 ---
 
