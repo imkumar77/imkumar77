@@ -6,7 +6,7 @@
 
  ## Work
  
-🔭 I’m currently working  as a **Business Strategy Associate** at **Clovefry**, I am passionate about data-driven decision-making and business optimization. 
+🔭  I am passionate about data-driven decision-making and business optimization. 
 
 🌱 I’m currently learning and constantly exploring new tools and techniques to drive business insights.
 
