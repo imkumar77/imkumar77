@@ -14,7 +14,7 @@
 
 📄 Know about my experiences  
 
-https://github.com/imkumar77/-Know-about-my-experiences/blob/main/Rahul%20Kumar.pdf
+[https://github.com/imkumar77/-Know-about-my-experiences/blob/main/Rahul%20Kumar.pdf](https://github.com/imkumar77/imkumar77/blob/main/Rahul%20Kumar%20BA.pdf)
 
 ---
 
@@ -30,14 +30,14 @@ https://github.com/imkumar77/-Know-about-my-experiences/blob/main/Rahul%20Kumar.
 
 🏆 **Stakeholder Communication**
 
+---
+
 ## 🔹 Tools
 - <img width="5625" height="1492" alt="image" src="https://github.com/user-attachments/assets/76650202-3e4d-4713-b8f9-af21cd561fce" />
 
 - ![{A3AB07BB-6415-4323-B814-B192FBD1F0D0}](https://github.com/user-attachments/assets/d295f46a-6d2d-42ea-9433-b12b2b22bd16)
   
 - ![{57D473A2-57D0-4B49-98D9-8E09B278AF5C}](https://github.com/user-attachments/assets/e6298b30-2081-4155-8567-f72afcd5e829)
-
-
 
 
 ---
