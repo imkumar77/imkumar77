@@ -2,7 +2,7 @@
 
 # 👋 I'm Rahul Kumar!
 
-## 🚀 Aspiring Business Analyst from India
+## 🚀 Aspiring Business Data Analyst from India
 
  ## Work
  
