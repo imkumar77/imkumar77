@@ -42,18 +42,6 @@
 
 ---
 
-## 📂 Projects
-
-🔹 [Project 1 - Predictive Workforce Analytics](https://github.com/imkumar77/Predictive-Workforce-Analytics-Strategy-for-Employee-Retention) 
-
-🔹 Project 2 - (https://github.com/imkumar77/Spotify-Streaming-Analytics-using-SQL)
-
-🔹 [Project 3 - Customer Insights Model](https://github.com/imkumar77/retail_database)
-
-🔹 [Project 4 - Coffee Shop Sales Analysis in Excel](https://github.com/imkumar77/Coffee-Shop-Revenue-Analysis-Dashboard-Excel-)
-
-🔹 [Project 5 -(https://github.com/imkumar77/Zomato-Performance-Dashboard)
-
 
 ## Projects  
 
