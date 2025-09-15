@@ -54,6 +54,15 @@
 
 🔹 [Project 5 -(https://github.com/imkumar77/Zomato-Performance-Dashboard)
 
+
+## Projects  
+
+- [Project 1 - Predictive Workforce Analytics](https://github.com/yourusername/your-repo)  
+- [Project 2 - Spotify Streaming Analytics using SQL](https://github.com/imkumar77/Spotify-Streaming-Analytics-using-SQL)  
+- [Project 3 - Customer Insights Model](https://github.com/yourusername/your-repo)  
+- [Project 4 - Coffee Shop Sales Analysis in Excel](https://github.com/yourusername/your-repo)  
+- [Project 5 - Zomato Performance Dashboard](https://github.com/imkumar77/Zomato-Performance-Dashboard)  
+
 ---
 
 ## 📫 Let's Connect!
