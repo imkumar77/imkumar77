@@ -22,7 +22,7 @@
 
 🏆 **Problem-Solving & Decision-Making**
 
-📊 **Data Visualization*
+📊 **Data Visualization**
 
 🛠  **Data Analysis**
 
